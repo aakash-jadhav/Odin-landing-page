@@ -180,7 +180,9 @@ footer {
   padding: 2em;
   text-align: center;
 }
-
+button {
+  cursor: pointer;
+}
 @media (max-width: 768px) {
   .wrapper {
     flex-direction: column;
